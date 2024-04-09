@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D0%B2%D1%83%D1%8E%20%D0%B2%20%D0%BC%D0%BE%D1%91%D0%BC%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%20GitHub%21&fontSize=40">
 </div>
-<h1></h1>
+
 <h3 align="center">
   <a href="[https://t.me/TSSDR](https://t.me/vladislavyar)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" align="center">
@@ -50,7 +50,7 @@
 
 <br><br>
 
-<h1></h1>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&fontSize=40">
