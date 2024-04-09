@@ -40,6 +40,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by commit" height="250">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by repo" height="250">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by commit" height="240">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by repo" height="240">
 </div>
