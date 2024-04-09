@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D0%B2%D1%83%D1%8E%20%D0%B2%20%D0%BC%D0%BE%D1%91%D0%BC%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%20GitHub%21&fontSize=40">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D0%B2%D1%83%D1%8E%20%D0%B2%20%D0%BC%D0%BE%D1%91%D0%BC%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%20GitHub%21&fontSize=40">
 </div>
 
 <h3 align="center">
@@ -42,4 +42,10 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by commit" height="240">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislavyar&theme=shades_of_purple" alt="top languages by repo" height="240">
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&fontSize=40">
 </div>
