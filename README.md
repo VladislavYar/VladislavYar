@@ -27,7 +27,7 @@
 <h1></h1>
 
 <h3 align="center">
-  Мой стек:
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=900&duration=1000&pause=10000&color=F7F7F7&random=true&width=95&height=35&lines=%D0%9C%D0%BE%D0%B9+%D1%81%D1%82%D0%B5%D0%BA%3A" alt="Typing SVG" /></a>
 </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo">
