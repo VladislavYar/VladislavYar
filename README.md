@@ -16,7 +16,7 @@
   <ul>
     <li><ins>Проживание</ins>: Россия, г. Тула  <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-house.gif" height="45" alt="home" align="center"></li>
     <li><ins>Над чем работаю</ins>: учавствую в open source проекте <a href="https://github.com/Diary-workout-tracker" target="_blank">"100 дней бега"</a> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif" height="40" alt="project" align="center"></li>
-    <li><ins>Занятость</ins>: рассмотрю предложения о работе или помогу в разработке проектов <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/shy.gif" height="40" alt="job" align="center"></li>
+    <li><ins>Занятость</ins>: на данный момент имею работу <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/shy.gif" height="40" alt="job" align="center"></li>
     <li><ins>Где учусь</ins>: Тульский госудаственный университет, "Информатика и вычислительная техника" (заочная форма) <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix-large.gif" height="40" alt="study" align="center"></li>
     <li><ins>Мои увлечения</ins>: вычислительная техника, программирование, наука о космосе <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/random/sparkly.gif" height="40" alt="hobbies" align="center"></li>
   </ul>
