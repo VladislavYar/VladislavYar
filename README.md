@@ -15,7 +15,7 @@
 <h3>
   <ul>
     <li><ins>Проживание</ins>: Россия, г. Тула  <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-house.gif" height="45" alt="home" align="center"></li>
-    <li><ins>Над чем работаю</ins>: учавствую в open source проекте <a href="https://github.com/Diary-workout-tracker" target="_blank">"100 дней бега"</a> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif" height="40" alt="project" align="center"></li>
+    <li><ins>Над чем работаю</ins>: веду разработку сайта <a href="https://www.tovaryplus.ru/" target="_blank">"Товары+"</a> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif" height="40" alt="project" align="center"></li>
     <li><ins>Занятость</ins>: на данный момент имею работу <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/shy.gif" height="40" alt="job" align="center"></li>
     <li><ins>Где учусь</ins>: Тульский госудаственный университет, "Информатика и вычислительная техника" (заочная форма) <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix-large.gif" height="40" alt="study" align="center"></li>
     <li><ins>Мои увлечения</ins>: вычислительная техника, программирование, наука о космосе <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/random/sparkly.gif" height="40" alt="hobbies" align="center"></li>
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white" height="40" alt="sqlalchemy logo">
   <img src="https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge&logo=Celery&logoColor=white" height="40" alt="celery logo">
+  <img src="https://img.shields.io/badge/ElasticSearch-F3DD1A?logo=elasticsearch&logoColor=white&style=for-the-badge" height="40" alt="elasticsearch logo">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo">
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo">
