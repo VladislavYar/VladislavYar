@@ -15,7 +15,7 @@
 <h3>
   <ul>
     <li><ins>Проживание</ins>: Россия, г. Тула  <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-house.gif" height="45" alt="home" align="center"></li>
-    <li><ins>Над чем работаю</ins>: веду разработку сайта <a href="https://www.tovaryplus.ru/" target="_blank">"Товары+"</a> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif" height="40" alt="project" align="center"></li>
+    <li><ins>Над чем работаю</ins>: учавствую в разработке <a href="https://ma.direct/" target="_blank">MA.direct</a> <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif" height="40" alt="project" align="center"></li>
     <li><ins>Занятость</ins>: на данный момент имею работу <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/shy.gif" height="40" alt="job" align="center"></li>
     <li><ins>Где учусь</ins>: Тульский госудаственный университет, "Информатика и вычислительная техника" (заочная форма) <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix-large.gif" height="40" alt="study" align="center"></li>
     <li><ins>Мои увлечения</ins>: вычислительная техника, программирование, наука о космосе <img src="https://meritt-gifs.s3.us-west-1.amazonaws.com/random/sparkly.gif" height="40" alt="hobbies" align="center"></li>
